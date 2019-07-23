@@ -5,8 +5,6 @@ Menu Class: Main Course
 Description:
 This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties.
 
-This is a new dessert menu.
-
 Ingredients
 1. 8 ounces spiral pasta
 2. 6 tablespoon olive oil
